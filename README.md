@@ -5,7 +5,14 @@ A React Native mobile application for searching and discovering games using the 
 ##  **Try the Live App**
 
 ###  Mobile (Recommended)
- **Download Expo Go** from [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
+1. **Download Expo Go** from [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
+2. **Open Expo Go** and enter this URL: `exp://tswzbmg-johnops75-8083.exp.direct`
+3. **Or scan this QR code**: ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=exp://tswzbmg-johnops75-8083.exp.direct)
+
+> **Note**: The app is available when the development server is running. Contact me if the link doesn't work!
+
+### 🌐 Web Version
+**Try it in your browser**: [http://localhost:8083](http://localhost:8083) *(when development server is running)*
 
 
 
