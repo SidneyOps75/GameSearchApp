@@ -30,7 +30,21 @@ A React Native mobile application for searching and discovering games using the 
 
 - Node.js (v14 or higher)
 - npm or yarn
-- Expo Go app on your mobile device (available on App Store/Google Play)
+- Expo Go app on your mobile device
+
+#### Download Expo Go App
+
+**For Android:**
+1. Open Google Play Store on your Android device
+2. Search for "Expo Go"
+3. Install the app developed by "Expo"
+4. Or use this direct link: [Expo Go on Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
+
+**For iOS:**
+1. Open App Store on your iPhone/iPad
+2. Search for "Expo Go"
+3. Install the app developed by "Expo"
+4. Or use this direct link: [Expo Go on App Store](https://apps.apple.com/app/expo-go/id982107779)
 
 ### Installation
 
@@ -62,7 +76,11 @@ A React Native mobile application for searching and discovering games using the 
    ```
 
 5. Run the app:
-   - **Mobile Device**: Open Expo Go app and scan the QR code displayed in the terminal
+   - **Mobile Device (Recommended)**:
+     - Make sure you have Expo Go app installed (see Prerequisites above)
+     - Open Expo Go app on your device
+     - Scan the QR code displayed in the terminal
+     - Your device and computer must be on the same Wi-Fi network
    - **Web**: Press `w` in the terminal to open in browser
    - **Android Emulator**: Press `a` in the terminal (requires Android Studio)
    - **iOS Simulator**: Press `i` in the terminal (requires Xcode, macOS only)
