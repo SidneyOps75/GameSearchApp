@@ -2,7 +2,19 @@
 
 A React Native mobile application for searching and discovering games using the RAWG API.
 
+##  **Try the Live App**
+
+###  Mobile (Recommended)
+ **Download Expo Go** from [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
+
+
+
+###  Project Dashboard
+View project details: [EAS Dashboard](https://expo.dev/accounts/johnops75/projects/GameSearchApp/updates/5933d090-b4dd-4e35-8652-38bbb7ce)
+
 ## Features
+
+ **Live Demo Available** - Try the app instantly using the links above!
 
 - **Home Screen**: Browse featured games with high ratings
 - **Search Functionality**: Search for games by name
