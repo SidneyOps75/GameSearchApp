@@ -42,7 +42,7 @@ A React Native mobile application for searching and discovering games using the 
 
 2. Or clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SidneyOps75/GameSearchApp.git
    cd GameSearchApp
    ```
 
